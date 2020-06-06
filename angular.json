@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "freelance"
+    }
+  },
+  "defaultProject": "freelance",
+  "cli": {
+    "analytics": "554559cc-0b32-470e-a745-9e11d6f8561a"
+  }
 }
